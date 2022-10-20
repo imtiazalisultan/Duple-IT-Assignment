@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+LIVE HOST: https://guileless-nasturtium-a3cf0c.netlify.app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
